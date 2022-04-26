@@ -19,5 +19,6 @@
     "coverage.xml": true,
     ".pytest_cache": true
   },
-  "editor.mouseWheelZoom": true
+  "editor.mouseWheelZoom": true,
+  "terminal.integrated.fontSize": 16
 }
